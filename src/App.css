@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&family=Raleway:wght@300;400;500&display=swap");
+
+.task_name {
+  font-family: "Heebo", sans-serif;
+  font-weight: 400;
+  color: black;
+  font-size: 16px;
+}
+
+.ticket_title {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  color: #595959;
+  font-size: 18px;
+}
+.add_task {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  color: #62656a;
+  font-size: 16px;
+}
+.blue_bg {
+  background: rgb(62, 184, 222);
+  background: linear-gradient(
+    180deg,
+    rgba(62, 184, 222, 1) 0%,
+    rgba(58, 131, 222, 1) 100%
+  );
+}
